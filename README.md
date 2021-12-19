@@ -1,11 +1,4 @@
-<img align="center" class="logo" alt="Spotify Logo" src="https://links.papareact.com/9xl?style=centerme">
-
-<style>
-.logo {
-  height: 100px;
-  width: 100px;
-}
-</style>
+<img style="height: 100px;width: 100px;" alt="Spotify Logo" src="https://links.papareact.com/9xl?style=centerme">
 
 # Spotify Clone
 
