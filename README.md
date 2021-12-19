@@ -1,27 +1,60 @@
-# Next.js + Tailwind CSS Example
+<img align="center" class="logo" alt="Spotify Logo" src="https://links.papareact.com/9xl?style=centerme">
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+<style>
+.logo {
+  height: 100px;
+  width: 100px;
+}
+</style>
 
-## Preview
+# Spotify Clone
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+A spotify clone made with NextJS 12, TailwindCSS, NextAuth, Spotify API, Recoil
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Lessons Learned
 
-## Deploy your own
+- Setting up NextJS with Tailwind.
+- NextAuth provider Authentication.
+- Spotify API using [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node).
+- SignIn/SignOut
+- NextJS 12 Middleware
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+in progress..
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## Features
 
-## How to use
+in progress..
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+## Run Locally (In progress..)
+
+Clone the project
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+  git clone https://github.com/zF4ke/spotify-clone
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Go to the project directory
+
+```bash
+  cd spotify-clone
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server in dev mode
+
+```bash
+  npm run dev
+```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Support
+
+For support, email pedrohsilva955@gmail.com.
