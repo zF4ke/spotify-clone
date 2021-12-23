@@ -11,10 +11,8 @@ A spotify clone made with NextJS 12, TailwindCSS, NextAuth, Spotify API, Recoil
 - Spotify API using [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node).
 - SignIn/SignOut
 - NextJS 12 Middleware
-
-in progress..
-
-## Features
+- Create useSpotify hook
+- Recoil (useRecoilState / useRecoilValue)
 
 in progress..
 
