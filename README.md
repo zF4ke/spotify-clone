@@ -13,10 +13,9 @@ A spotify clone made with NextJS 12, TailwindCSS, NextAuth, Spotify API, Recoil
 - NextJS 12 Middleware
 - Create useSpotify hook
 - Recoil (useRecoilState / useRecoilValue)
+- Debouncing
 
-in progress..
-
-## Run Locally (In progress..)
+## Run Locally
 
 Clone the project
 
